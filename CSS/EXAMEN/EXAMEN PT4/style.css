@@ -1,0 +1,554 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.frame-1 {
+  
+  background-image: url();
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 840px;
+  position: relative;
+  width: 596px;
+}
+.frame-1 .about-me {
+  left: 19px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 99px;
+}
+.frame-1 .adobe-apps {
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 458px;
+}
+.frame-1 .b1 {
+  left: 302px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 760px;
+}
+.frame-1 .c1 {
+  left: 302px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 804px;
+}
+.frame-1 .catalan {
+  left: 223px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 804px;
+}
+.frame-1 .css {
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 524px;
+  width: 78px;
+}
+.frame-1 .education {
+  left: 22px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  width: 99px;
+}
+.frame-1 .experience {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 99px;
+}
+.frame-1 .html {
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 502px;
+  width: 78px;
+}
+.frame-1 .i-did-practices {
+  left: 315px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 658px;
+  width: 271px;
+}
+.frame-1 .ilerna {
+  left: 227px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 402px;
+  width: 69px;
+}
+.frame-1 .image-1 {
+  height: 23px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.frame-1 .image-10 {
+  height: 158px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 160px;
+}
+.frame-1 .image-3 {
+  height: 24px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 24px;
+}
+.frame-1 .image-4 {
+  height: 18px;
+  left: 248px;
+  object-fit: cover;
+  position: absolute;
+  top: 569px;
+  width: 18px;
+}
+.frame-1 .image-5 {
+  height: 16px;
+  left: 251px;
+  object-fit: cover;
+  position: absolute;
+  top: 727px;
+  width: 16px;
+}
+.frame-1 .image-6 {
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+.frame-1 .image-7 {
+  height: 16px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 326px;
+  width: 14px;
+}
+.frame-1 .image-8 {
+  height: 17px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 16px;
+}
+.frame-1 .image-9 {
+  height: 18px;
+  left: 24px;
+  position: absolute;
+  top: 264px;
+  width: 16px;
+}
+.frame-1 .java-script {
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 480px;
+  width: 78px;
+}
+.frame-1 .lenguages {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 99px;
+}
+.frame-1 .line- {
+  height: 4px;
+  left: 97px;
+  position: absolute;
+  top: 8px;
+  width: 218px;
+}
+.frame-1 .line-10 {
+  height: 4px;
+  left: 201px;
+  position: absolute;
+  top: 578px;
+  width: 43px;
+}
+.frame-1 .line-11 {
+  height: 4px;
+  left: 201px;
+  position: absolute;
+  top: 735px;
+  width: 43px;
+}
+.frame-1 .line-12 {
+  height: 4px;
+  left: 201px;
+  position: absolute;
+  top: 355px;
+  width: 43px;
+}
+.frame-1 .line-13 {
+  height: 4px;
+  left: 201px;
+  position: absolute;
+  top: 233px;
+  width: 43px;
+}
+.frame-1 .line-14 {
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 69px;
+}
+.frame-1 .line-2 {
+  height: 3px;
+  left: 119px;
+  position: absolute;
+  top: 486px;
+  width: 69px;
+}
+.frame-1 .line-3 {
+  height: 3px;
+  left: 119px;
+  position: absolute;
+  top: 508px;
+  width: 69px;
+}
+.frame-1 .line-4 {
+  height: 3px;
+  left: 119px;
+  position: absolute;
+  top: 530px;
+  width: 69px;
+}
+.frame-1 .line-5 {
+  height: 3px;
+  left: 119px;
+  position: absolute;
+  top: 550px;
+  width: 69px;
+}
+.frame-1 .line-6 {
+  height: 4px;
+  left: 116px;
+  position: absolute;
+  top: 11px;
+  width: 218px;
+}
+.frame-1 .line-7 {
+  height: 4px;
+  left: 119px;
+  position: absolute;
+  top: 93px;
+  width: 218px;
+}
+.frame-1 .native {
+  left: 302px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 782px;
+}
+.frame-1 .operating-sistems {
+  left: 30px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 546px;
+  width: 78px;
+}
+.frame-1 .overlap-group {
+  height: 18px;
+  left: 24px;
+  position: absolute;
+  top: 706px;
+  width: 172px;
+}
+.frame-1 .overlap-group1 {
+  height: 23px;
+  left: 269px;
+  position: absolute;
+  top: 725px;
+  width: 315px;
+}
+.frame-1 .overlap-group2 {
+  height: 75px;
+  left: 326px;
+  position: absolute;
+  top: 378px;
+  width: 260px;
+}
+.frame-1 .overlap-group3 {
+  height: 108px;
+  left: 247px;
+  position: absolute;
+  top: 261px;
+  width: 339px;
+}
+.frame-1 .overlap-group4 {
+  background-image: url();
+  background-size: 100% 100%;
+  height: 3px;
+  left: 119px;
+  position: absolute;
+  top: 464px;
+  width: 69px;
+}
+.frame-1 .overlap-group5 {
+  height: 23px;
+  left: 269px;
+  position: absolute;
+  top: 568px;
+  width: 315px;
+}
+.frame-1 .overlap-group6 {
+  height: 57px;
+  left: 223px;
+  position: absolute;
+  top: 600px;
+  width: 363px;
+}
+.frame-1 .overlap-group7 {
+  height: 26px;
+  left: 250px;
+  position: absolute;
+  top: 221px;
+  width: 334px;
+}
+.frame-1 .phone {
+  left: 227px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 384px;
+  width: 69px;
+}
+.frame-1 .phone-1 {
+  left: 227px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 488px;
+  width: 69px;
+}
+.frame-1 .phone-2 {
+  left: 223px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 599px;
+  width: 73px;
+}
+.frame-1 .phone-3 {
+  left: 219px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 664px;
+  width: 73px;
+}
+.frame-1 .phone-4 {
+  left: 51px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 300px;
+  width: 104px;
+}
+.frame-1 .place {
+  left: 24px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 88px;
+}
+.frame-1 .place-1 {
+  left: 223px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 782px;
+}
+.frame-1 .skills {
+  left: 24px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 414px;
+  width: 88px;
+}
+.frame-1 .surname {
+  left: 223px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 760px;
+}
+.frame-1 .text- {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+}
+.frame-1 .text-1 {
+  left: 367px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 81px;
+  width: 228px;
+}
+.frame-1 .text-10 {
+  left: 51px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 267px;
+  width: 104px;
+}
+.frame-1 .text-11 {
+  left: 51px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 326px;
+  width: 126px;
+}
+.frame-1 .text-12 {
+  left: 331px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 488px;
+  width: 255px;
+}
+.frame-1 .text-13 {
+  left: 13px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 159px;
+}
+.frame-1 .text-2 {
+  left: 367px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 125px;
+  width: 228px;
+}
+.frame-1 .text-3 {
+  left: 22px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  width: 317px;
+}
+.frame-1 .text-6 {
+  left: 92px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 0px;
+  width: 271px;
+}
+.frame-1 .text-7 {
+  left: 227px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 506px;
+  width: 101px;
+}
+.frame-1 .text-8 {
+  left: 223px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 681px;
+  width: 84px;
+}
+.frame-1 .text-9 {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  top: 16px;
+  width: 101px;
+}
+.frame-1 .web {
+  left: 24px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 668px;
+  width: 88px;
+}
+.montserrat-regular-normal-black-10px {
+  color: black;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-regular-normal-black-12px {
+  color: black;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-regular-normal-black-14px {
+  color: black;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.imagenfondo{
+    position:absolute;
+    top: 1px;
+  left : 1px;
+  z-index: -1;
+}
+.montserrat-regular-normal-white-11px {
+  color: white;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.montserrat-regular-normal-white-8px {
+  color: white;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+}
+.pridi-regular-normal-white-18px {
+  color: white;
+  font-family: "Pridi-Regular", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-regular-normal-black-18px {
+  color: black;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.frame-1 .image-6:hover{
+  height: 25px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}

@@ -1,0 +1,67 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.martelsans-regular-normal-silver-tree-18px {
+  color: var(--silver-tree);
+  font-family: "Martel Sans-Regular", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.portada-documentos {
+  background-color: white;
+  height: 842px;
+  width: 596px;
+}
+.portada-documentos .group-13 {
+  height: 100px;
+  left: 367px;
+  position: absolute;
+  top: 25px;
+  width: 204px;
+}
+.portada-documentos .image-1 {
+  height: 842px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 592px;
+}
+.portada-documentos .informacin-sobre-el-documento {
+  height: 92px;
+  left: 286px;
+  position: absolute;
+  top: 692px;
+  width: 292px;
+}
+.portada-documentos .overlap-group {
+  height: 842px;
+  position: relative;
+}
+.portada-documentos .slogan-profundo-ara-reflexionar {
+  height: 87px;
+  left: 339px;
+  position: absolute;
+  top: 294px;
+  width: 212px;
+}
+.portada-documentos .text-1 {
+  height: 23px;
+  left: 0px;
+  letter-spacing: 15.75px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  top: 163px;
+  width: 317px;
+}
+:root {
+  --silver-tree: rgba(98, 177, 139, 1);
+}
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
