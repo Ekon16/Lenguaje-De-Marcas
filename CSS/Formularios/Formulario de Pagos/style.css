@@ -127,7 +127,7 @@ input {
     border-radius: 4px;
     cursor: pointer;
     float:right;
-    
+
 }
 
 /* CHANGEABLE CARD ELEMENTS */
@@ -209,7 +209,6 @@ input {
     fill: #616161;
 }
 
-/* FRONT OF CARD */
 #svgname {
     text-transform: uppercase;
 }
